@@ -1,0 +1,9 @@
+obtener nombre y dato
+	Nombre: Nombre: Howard the Duck | peso: 18.449999999999999
+obtener minimo
+	[('Nombre', 'Nombre: Nombre: Howard the Duck |'), ('fuerza', 2), ('Nombre', 'Hawkeye'), ('fuerza', 2)]
+imprimir heroes
+	ROMPE ValueError
+
+* Debería ir subiendo a repositorio las cosas por las dudas que las pierda o algo, 
+pero para eso va a tener que estar bien ordenada la cosa
