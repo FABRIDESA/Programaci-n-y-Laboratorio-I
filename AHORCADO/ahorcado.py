@@ -73,4 +73,4 @@ def ahorcado (diccionario:dict):
             
 
 
-# ahorcado(diccionario_de_temas)
+#ahorcado(diccionario_de_temas)
